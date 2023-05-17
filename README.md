@@ -15,6 +15,6 @@
 
 <div>
    <a href-"https://beacons.ai/galileuflavio">
-   <img heigt="180cm" src="https://github-readme.stats.vercel.app/api?username=rafaballeri26how_icons=trum&theme=dracula&include_all_commits=true&count_private=truer_/>
-   <img heigt="180cm" src="https://github-readme.stats.vercel.app/apl/top-langs/?username=rafabsllerini26layout=compact&langs_count+168themg=dracula"_/>
+   <img heigt="180cm" src="https://github-readme.stats.vercel.app/api?username=galileuflavioshow_icons=trum&theme=dracula&include_all_commits=true&count_private=truer_/>
+   <img heigt="180cm" src="https://github-readme.stats.vercel.app/apl/top-langs/?username=glileuflavioyout=compact&langs_count+168themg=dracula"_/>
  </div>                                                                                                                               
